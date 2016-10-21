@@ -1,2 +1,3 @@
 sout("hello world");
 print("ooops!");
+Интересный метод(){};
